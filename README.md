@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 - 🏭 I am currently working at [Cerema](https://www.cerema.fr/en) in the research team [DIMA](https://www.cerema.fr/en/innovation-recherche/recherche/equipes/dima-durability-innovation-and-recovery-alternative) associated to the [FM2D](https://fm2d.univ-gustave-eiffel.fr/) team of [UGE](https://www.univ-gustave-eiffel.fr/en/) forming the [UMR MCD](https://www.cerema.fr/fr/presse/dossier/cerema-universite-gustave-eiffel-creent-unite-mixte).
+
 - 🔬 My research activities focus on development of micromechanical models and numerical tools with applications to civil engineering materials.
+
+- 📚 Publications on [HAL](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jfbarthelemy)
+
+- 🚪 Page on [Researchgate](https://www.researchgate.net/profile/Jean-Francois_Barthelemy)
+
+- 🌍 Page on [Publons](https://publons.com/researcher/1534629/jean-francois-barthelemy/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
