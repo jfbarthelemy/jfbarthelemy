@@ -6,7 +6,7 @@
 
 - 📚 Publications on [HAL](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jfbarthelemy)
 
-- 🚪 Page on [Researchgate](researchgate.net/profile/Jean-Francois-Barthelemy)
+- 🚪 Page on [Researchgate](https://www.researchgate.net/profile/Jean-Francois_Barthelemy)
 
 - 🌍 Page on [Web Of Science](https://www.webofscience.com/wos/author/record/449919)
 
