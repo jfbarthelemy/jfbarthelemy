@@ -10,9 +10,7 @@
 
 - 🌍 Page on [Web Of Science](https://www.webofscience.com/wos/author/record/449919)
 
-<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 **jfbarthelemy/jfbarthelemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
