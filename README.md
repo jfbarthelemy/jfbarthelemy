@@ -10,6 +10,8 @@
 
 - 🌍 Page on [Web Of Science](https://www.webofscience.com/wos/author/record/449919)
 
+- 🆔 ORCID https://orcid.org/0000-0002-1968-8939ORCID https://orcid.org/0000-0002-1968-8939
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
