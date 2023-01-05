@@ -10,7 +10,19 @@
 
 - 🌍 Page on [Web Of Science](https://www.webofscience.com/wos/author/record/449919)
 
-- 🆔 ORCID https://orcid.org/0000-0002-1968-8939
+- <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-1968-8939"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-1968-8939
+    </a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
