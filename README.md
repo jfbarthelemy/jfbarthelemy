@@ -15,5 +15,4 @@
 [![LinkedIn](img/linkedin.png) LinkedIn](https://www.linkedin.com/in/jean-fran%C3%A7ois-barth%C3%A9l%C3%A9my-75b3122/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbarthelemy&hide=Jupyter%20Notebook,Javascript,HTML,CSS,SCSS&theme=tokyonight)
