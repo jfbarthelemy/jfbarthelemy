@@ -6,7 +6,7 @@
 
 🔬 My research activities focus on development of micromechanical models and numerical tools with applications to civil engineering materials.
 
-[![GitHub](img/github.png) GitHub](https://github.com/jfbarthelemy) 
+[![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/jfbarthelemy) 
 [![ResearchGate](img/researchgate.png) ResearchGate](https://www.researchgate.net/profile/Jean-Francois_Barthelemy) 
 [![Google Scholar](img/google-scholar.png) Google Scholar](https://scholar.google.com/citations?user=RVjtCiAAAAAJ&hl=en) 
 [![HAL](img/hal.png) HAL](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=jfbarthelemy) 
