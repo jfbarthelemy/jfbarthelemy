@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](img/leportel_fortheurt_cartoon_large.png)
+![Cover](https://github.com/jfbarthelemy/jfbarthelemy/blob/master/img/leportel_fortheurt_cartoon_large.png)
 
 🏭 I am currently working at [Cerema](https://www.cerema.fr/en) in the research team [UMR MCD](https://mcd.univ-gustave-eiffel.fr/).
 
@@ -16,4 +16,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jfbarthelemy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbarthelemy&hide=Jupyter%20Notebook,Javascript&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbarthelemy&hide=Jupyter%20Notebook,Javascript,HTML&theme=tokyonight)
