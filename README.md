@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/jfbarthelemy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfbarthelemy/jfbarthelemy/main/img/white_background.png" width="800">
-    <img src="https://github.com/jfbarthelemy/jfbarthelemy/blob/main/img/leportel_fortheurt_cartoon_large.png" alt="Cover" width="800" style="background-color: white; padding: 4px;">
-  </picture>
-</a>
+![Cover](https://github.com/jfbarthelemy/jfbarthelemy/blob/main/img/leportel_fortheurt_cartoon_large.png)
 
 🏭 I am currently working at [Cerema](https://www.cerema.fr/en) in the research team [UMR MCD](https://mcd.univ-gustave-eiffel.fr/).
 
