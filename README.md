@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/jfbarthelemy/jfbarthelemy/blob/main/img/leportel_fortheurt_cartoon_large.png)
+![Cover](https://github.com/jfbarthelemy/jfbarthelemy/blob/main/img/leportel_fortheurt_cartoon_large.jpg)
 
 🏭 I am currently working at [Cerema](https://www.cerema.fr/en) in the research team [UMR MCD](https://mcd.univ-gustave-eiffel.fr/).
 
